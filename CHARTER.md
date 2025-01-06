@@ -1,10 +1,19 @@
-# Charter for the [FIXME] Organization
+# Charter for the TorchGeo Organization
 
-This is the organizational charter for the [FIXME] Organization (the "Organization"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members agree as follows.
+This is the organizational charter for the TorchGeo Organization (the "Organization"). By adding their name to the [Steering Committee.md file](./STEERING-COMMITTEE.md), Steering Committee members agree as follows.
 
 ## 1. Mission
 
-[Set out mission of the Organization].
+The mission of the Organization is to make it simple:
+
+* for machine learning experts to work with geospatial data, and
+* for remote sensing experts to explore machine learning solutions.
+
+This includes, but is not limited to:
+
+* the [Python library](https://github.com/microsoft/torchgeo)
+* the [Hugging Face community](https://huggingface.co/torchgeo)
+* the [Slack workspace](https://join.slack.com/t/torchgeo/shared_invite/zt-22rse667m-eqtCeNW0yI000Tl4B~2PIw)
 
 ## 2. Steering Committee
 
