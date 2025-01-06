@@ -11,9 +11,9 @@ The mission of the Organization is to make it simple:
 
 This includes, but is not limited to:
 
-* the [Python library](https://github.com/microsoft/torchgeo)
-* the [Hugging Face community](https://huggingface.co/torchgeo)
-* the [Slack workspace](https://join.slack.com/t/torchgeo/shared_invite/zt-22rse667m-eqtCeNW0yI000Tl4B~2PIw)
+* the [Python library](https://github.com/microsoft/torchgeo),
+* the [Hugging Face community](https://huggingface.co/torchgeo), and
+* the [Slack workspace](https://join.slack.com/t/torchgeo/shared_invite/zt-22rse667m-eqtCeNW0yI000Tl4B~2PIw).
 
 ## 2. Steering Committee
 
