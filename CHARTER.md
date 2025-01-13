@@ -6,14 +6,14 @@ This is the organizational charter for the TorchGeo Organization (the "Organizat
 
 The mission of the Organization is to make it simple:
 
-* for machine learning experts to work with geospatial data, and
-* for remote sensing experts to explore machine learning solutions.
+- for machine learning experts to work with geospatial data, and
+- for remote sensing experts to explore machine learning solutions.
 
 This includes, but is not limited to:
 
-* the [Python library](https://github.com/microsoft/torchgeo),
-* the [Hugging Face community](https://huggingface.co/torchgeo), and
-* the [Slack workspace](https://join.slack.com/t/torchgeo/shared_invite/zt-22rse667m-eqtCeNW0yI000Tl4B~2PIw).
+- the [Python library](https://github.com/microsoft/torchgeo),
+- the [Hugging Face community](https://huggingface.co/torchgeo), and
+- the [Slack workspace](https://join.slack.com/t/torchgeo/shared_invite/zt-22rse667m-eqtCeNW0yI000Tl4B~2PIw).
 
 ## 2. Steering Committee
 
@@ -53,18 +53,19 @@ Information disclosed in connection with any of the Organization's activities, i
 
 In order to be eligible to be a Organization project, a project must:
 
-* Be approved by the Steering Committee.
-* Agree to follow the guidance and direction of the Steering Committee.
-* Use only the following outbound licenses or agreements unless otherwise approved:
+- Be approved by the Steering Committee.
+- Agree to follow the guidance and direction of the Steering Committee.
+- Use only the following outbound licenses or agreements unless otherwise approved:
   - For code, a license on the Open Source Initiative's list of [Popular Licenses](https://opensource.org/licenses).
   - For data, a license on the Open Knowledge Foundation's list of [Recommended Conformant Licenses](http://opendefinition.org/licenses/).
   - For specifications, a community developed and maintained specification agreement, such the [Open Web Foundation Agreements](https://www.openwebfoundation.org/the-agreements) or [Community Specification Agreement](https://github.com/CommunitySpecification/1.0).
-* Include and adhere to the Organization's policies, including the [trademark policy](./TRADEMARKS.md), the [antitrust policy](./ANTITRUST.md), and the [code of conduct](./CODE-OF-CONDUCT.md).
+- Include and adhere to the Organization's policies, including the [trademark policy](./TRADEMARKS.md), the [antitrust policy](./ANTITRUST.md), and the [code of conduct](./CODE-OF-CONDUCT.md).
 
 ## 9. Amendments
 
 Amendments to this charter, the [antitrust policy](./ANTITRUST.md), the [trademark policy](./TRADEMARKS.md), or the [code of conduct](./CODE-OF-CONDUCT.md) may only be made with at least a 3/4 affirmative vote of the Steering Committee.
 
 ---
+
 Part of MVG-0.1-beta.
 Made with love by GitHub. Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
