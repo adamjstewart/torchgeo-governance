@@ -5,6 +5,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | **NAME**        | **Handle**    | **Affiliation** |
 | --------------- | ------------- | --------------- |
 | Adam J. Stewart | @adamjstewart | TUM             |
+| Nils Lehmann    | @nilsleh      | TUM             |
 
 ---
 
