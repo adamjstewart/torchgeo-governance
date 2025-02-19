@@ -9,12 +9,6 @@ The mission of the Organization is to make it simple:
 - for machine learning experts to work with geospatial data, and
 - for remote sensing experts to explore machine learning solutions.
 
-This includes, but is not limited to:
-
-- the [Python library](https://github.com/microsoft/torchgeo),
-- the [Hugging Face community](https://huggingface.co/torchgeo), and
-- the [Slack workspace](https://join.slack.com/t/torchgeo/shared_invite/zt-22rse667m-eqtCeNW0yI000Tl4B~2PIw).
-
 ## 2. Steering Committee
 
 **2.1 Purpose**. The Steering Committee will be responsible for all technical oversight, project approval and oversight, policy oversight, and trademark management for the Organization.
