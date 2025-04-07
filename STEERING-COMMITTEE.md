@@ -6,7 +6,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | --------------- | ------------- | --------------- |
 | Adam J. Stewart | @adamjstewart | TUM             |
 | Nils Lehmann    | @nilsleh      | TUM             |
-
+| Isaac Corley    | @isaaccorley  | Wherobots       |
 ---
 
 Part of MVG-0.1-beta.
