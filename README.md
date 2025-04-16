@@ -7,8 +7,8 @@
 
 The TorchGeo Organization is led by folks from the following organizations:
 
-<img src="logos/tum.svg" alt="TUM" width="200"/>
-<img src="logos/wherobots.jpeg" alt="Wherobots" width="200"/>
+<img src="logos/tum.svg" alt="TUM" width="300"/>
+<img src="logos/wherobots.jpeg" alt="Wherobots" width="300"/>
 
 ## How to Join
 
@@ -22,4 +22,4 @@ If you satisfy these criteria, we will reach out to you!
 
 ## History
 
-TorchGeo started as an internship project at Microsoft's AI for Good Lab in 2021, with continued support and funding from the University of Illinois Urbana-Champaign and the National Center for Supercomputing Applications. Since then, TorchGeo has been adopted by a diverse community of researchers from academia, industry, and government research institutions who have contributed to the success of the library. In 2025, we founded a new TorchGeo _Organization_ to manage the TorchGeo _Project_, with the support of members from the above organizations.
+TorchGeo started as an internship project at [Microsoft's AI for Good Lab](https://www.microsoft.com/en-us/research/group/ai-for-good-research-lab/) in 2021, with continued support and funding from the [University of Illinois Urbana-Champaign](https://siebelschool.illinois.edu/) and the [National Center for Supercomputing Applications](https://www.ncsa.illinois.edu/). Since then, TorchGeo has been adopted by a diverse community of researchers from academia, industry, and government research institutions who have contributed to the success of the library. In 2025, we founded a new TorchGeo _Organization_ to manage the TorchGeo _Project_, with the support of members from the above organizations.
