@@ -8,7 +8,11 @@
 The TorchGeo Organization is led by folks from the following organizations:
 
 <img src="logos/tum.svg" alt="TUM" width="300"/>
-<img src="logos/wherobots.jpeg" alt="Wherobots" width="300"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logos/wherobots_white.svg" width="300"/>
+  <source media="(prefers-color-scheme: light)" srcset="logos/wherobots_black.svg" width="300"/>
+  <img alt="Wherobots" src="logos/wherobots_black.svg" width="300"/>
+</picture>
 
 ## How to Join
 
