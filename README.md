@@ -7,20 +7,17 @@
 
 The TorchGeo Organization is led by folks from the following organizations:
 
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="logos/tum_dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="logos/tum_light.svg"/>
-    <img alt="TUM" src="logos/tum_light.svg" style="display:flex;justify-content:center" width="300"/>
-  </picture>
-</div>
-<div>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="logos/wherobots_dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="logos/wherobots_light.svg"/>
-    <img alt="Wherobots" src="logos/wherobots_light.svg" style="display:flex;justify-content:center" width="300"/>
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logos/tum_dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="logos/tum_light.svg"/>
+  <img alt="TUM" src="logos/tum_light.svg" style="display:block;margin:auto;width:300"/>
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logos/wherobots_dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="logos/wherobots_light.svg"/>
+  <img alt="Wherobots" src="logos/wherobots_light.svg" style="display:block;margin:auto;width:300"/>
+</picture>
 
 ## How to Join
 
