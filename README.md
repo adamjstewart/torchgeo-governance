@@ -12,7 +12,7 @@ The TorchGeo Organization is led by folks from the following organizations:
   <source media="(prefers-color-scheme: light)" srcset="logos/tum_light.svg" width="300"/>
   <img alt="TUM" src="logos/tum_light.svg" width="300"/>
 </picture>
-
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="logos/wherobots_dark.svg" width="300"/>
   <source media="(prefers-color-scheme: light)" srcset="logos/wherobots_light.svg" width="300"/>
