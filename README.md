@@ -19,6 +19,13 @@ The TorchGeo Organization is led by folks from the following organizations:
   <source media="(prefers-color-scheme: light)" srcset="logos/wherobots_light.svg"/>
   <img alt="Wherobots" src="logos/wherobots_light.svg" width="300"/>
 </picture>
+<br/>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logos/space42_dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="logos/space42_light.svg"/>
+  <img alt="Space42" src="logos/space42_light.svg" width="300"/>
+</picture>
 
 ## How to Join
 
