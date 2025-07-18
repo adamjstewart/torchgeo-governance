@@ -9,6 +9,7 @@ This document lists the members of the Organization's Steering Committee. Voting
 | Isaac Corley    | @isaaccorley  | Wherobots       |
 | Ashwin Nair     | @ashnair1     | Space42         |
 | Caleb Robinson  | @calebrob6    | Microsoft       |
+| Anthony Ortiz   | @anthonymlortiz | Microsoft     |
 ---
 
 Part of MVG-0.1-beta.
