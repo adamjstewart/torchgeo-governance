@@ -15,6 +15,13 @@ The TorchGeo Organization is led by folks from the following organizations:
 <br/>
 <br/>
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logos/ai4g_dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="logos/ai4g_light.svg"/>
+  <img alt="TUM" src="logos/ai4g_light.svg" width="300"/>
+</picture>
+<br/>
+<br/>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="logos/wherobots_dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="logos/wherobots_light.svg"/>
   <img alt="Wherobots" src="logos/wherobots_light.svg" width="300"/>
