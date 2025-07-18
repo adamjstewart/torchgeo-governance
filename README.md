@@ -10,7 +10,7 @@ The TorchGeo Organization is led by folks from the following organizations:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="logos/ai4g_dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="logos/ai4g_light.svg"/>
-  <img alt="TUM" src="logos/ai4g_light.svg" width="300"/>
+  <img alt="Microsoft AI for Good" src="logos/ai4g_light.svg" width="300"/>
 </picture>
 <br/>
 <br/>
