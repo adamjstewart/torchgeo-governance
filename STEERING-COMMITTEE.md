@@ -2,14 +2,14 @@
 
 This document lists the members of the Organization's Steering Committee. Voting members may be added once approved by the Steering Committee as described in the [charter](./CHARTER.md). By adding your name to this list you are agreeing to abide by all Organization polices, including the [charter](./CHARTER.md), the [code of conduct](./CODE-OF-CONDUCT.md), the [trademark policy](./TRADEMARKS.md), and the [antitrust policy](./ANTITRUST.md).
 
-| **NAME**        | **Handle**      | **Affiliation** |
-| --------------- | --------------- | --------------- |
-| Adam J. Stewart | @adamjstewart   | TUM             |
-| Caleb Robinson  | @calebrob6      | Microsoft       |
-| Anthony Ortiz   | @anthonymlortiz | Microsoft       |
-| Isaac Corley    | @isaaccorley    | Wherobots       |
-| Ashwin Nair     | @ashnair1       | Space42         |
-| Nils Lehmann    | @nilsleh        | TUM             |
+| **Name**             | **Handle**                                           | **Affiliation** |
+| -------------------- | ---------------------------------------------------- | --------------- |
+| Adam Stewart (Chair) | [@adamjstewart](https://github.com/adamjstewart)     | TUM             |
+| Caleb Robinson       | [@calebrob6](https://github.com/calebrob6)           | Microsoft       |
+| Anthony Ortiz        | [@anthonymlortiz](https://github.com/anthonymlortiz) | Microsoft       |
+| Isaac Corley         | [@isaaccorley](https://github.com/isaaccorley)       | Wherobots       |
+| Ashwin Nair          | [@ashnair1](https://github.com/ashnair1)             | Space42         |
+| Nils Lehmann         | [@nilsleh](https://github.com/nilsleh)               | TUM             |
 
 ---
 
